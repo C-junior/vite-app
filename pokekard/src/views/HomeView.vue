@@ -93,9 +93,9 @@ const selectFE = async (fe) => {
 
 
 <template>
-  <main class="container">
+  <main class="row">
 
-
+  <div class="col-sm-12 col-md-6">
 
     <SelectedFE 
     :name="feSelected?.name"
@@ -104,7 +104,8 @@ const selectFE = async (fe) => {
     :strong="feSelected?.strongvs"
     :weak="feSelected?.weakvs"
     />
-   
+  </div>
+   <div class="col-sm-12 col-md-6">
     <div class="mb-3">
       <label hidden for="search"></label>
       <input 
@@ -113,8 +114,7 @@ const selectFE = async (fe) => {
 
     </div>
     <div class=" text-center card-list">
-  <div class="row">    
-    <div class="col-sm-12 col-md-12 "  >
+  
       <div class="card-body row">
       <Listfe 
       v-for=" fe in fesearch"
@@ -125,10 +125,10 @@ const selectFE = async (fe) => {
       @click="selectFE(fe)"
       />
     </div>
-    </div>
-   
-  </div>
+    
 </div>
+</div>
+
   </main>
 </template>
 

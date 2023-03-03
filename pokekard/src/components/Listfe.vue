@@ -39,8 +39,8 @@ const fe = defineProps(["feChar", "feImg", "feWt"])
 }
 
 .lista {
-    height: 200px;
-    
+    height: 220px;
+    align-items: center;
 }
 .lista img {
     max-height: 150px;

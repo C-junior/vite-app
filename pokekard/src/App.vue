@@ -4,12 +4,12 @@ import HelloWorld from './components/HelloWorld.vue'
 </script>
 
 <template>
-  <header class=" container">
-    <nav class="navbar navbar-expand-lg  bg-danger ">
-  <div class="container-fluid">
+  <header >
+    <nav class="navbar navbar-expand-lg  bg-white ">
+  <div class="container-fluid all">
     <a class="navbar-brand" href="#">
-      <img src="../src/assets/pokeball-icon.png " alt="Logo" width="30" height="30" class="d-inline-block align-text-top">
-      Pokekard
+      <img src="../src/assets/logofe.png " alt="Logo" width="30" height="30" class="d-inline-block align-text-top">
+      Fire Emblem Fates Companion
     </a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
@@ -34,8 +34,12 @@ import HelloWorld from './components/HelloWorld.vue'
         <RouterLink to="/">Home</RouterLink>
         <RouterLink to="/about">About</RouterLink>
       </nav>
-    </div> -->
+    </div> -->    
   </header>
+  <main>
+    
+  </main>
+
   <RouterView />
 <footer class="bg-danger">
   <div>
@@ -59,6 +63,10 @@ import HelloWorld from './components/HelloWorld.vue'
 display: flex;
 justify-content: center;
 align-items: center;
+}
+
+.all{
+  width: 100vw ;
 }
 
 </style>

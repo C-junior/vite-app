@@ -116,10 +116,18 @@ v-else-if="fe.wt === 'Lance || Spear'" class="card greenbg" >
 
 
 <style>
+.card img {
+    align-self: center;
+    max-width: fit-content;
+    overflow: hidden;
+}
 .feselect{
-    max-height: 75vh;
+    max-height: 80vh;
   overflow-y: scroll;
   overflow-x: hidden;
+}
+.feselect img {
+    max-height: 60vh;
 }
 
 .redbg{
