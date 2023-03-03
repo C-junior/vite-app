@@ -4,7 +4,7 @@ import HelloWorld from './components/HelloWorld.vue'
 </script>
 
 <template>
-  <header class="">
+  <header class=" container">
     <nav class="navbar navbar-expand-lg  bg-danger ">
   <div class="container-fluid">
     <a class="navbar-brand" href="#">
@@ -36,14 +36,14 @@ import HelloWorld from './components/HelloWorld.vue'
       </nav>
     </div> -->
   </header>
-
+  <RouterView />
 <footer class="bg-danger">
   <div>
     Khaos Corp. {{ new Date().getFullYear() }}
   </div>
 </footer>
 
-  <RouterView />
+  
 </template>
 
 <style scoped>

@@ -93,7 +93,7 @@ const selectFE = async (fe) => {
 
 
 <template>
-  <main>
+  <main class="container">
 
 
 
@@ -101,6 +101,8 @@ const selectFE = async (fe) => {
     :name="feSelected?.name"
     :imgSelFE="feSelected?.image"
     :wt="feSelected?.weapontype"
+    :strong="feSelected?.strongvs"
+    :weak="feSelected?.weakvs"
     />
    
     <div class="mb-3">
@@ -110,7 +112,7 @@ const selectFE = async (fe) => {
       type="text" id="search" placeholder="Pesquisar..." style="width: 100%;">
 
     </div>
-    <div class="container text-center">
+    <div class=" text-center card-list">
   <div class="row">    
     <div class="col-sm-12 col-md-12 "  >
       <div class="card-body row">
@@ -132,5 +134,10 @@ const selectFE = async (fe) => {
 
 
 <style>
+.card-list{
+  max-height: 75vh;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
 
 </style>
