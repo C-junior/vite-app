@@ -1,0 +1,300 @@
+{
+    "characters": [
+      {
+        "name": "Anna",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_anna_fullsize.png?raw=true"
+      },
+      {
+        "name": "Arthur",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_arthur_fullsize.png?raw=true"
+      },
+      {
+        "name": "Asugi",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_asugi_fullsize.png?raw=true"
+      },
+      {
+        "name": "Azama",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_azama_fullsize.png?raw=true"
+      },
+      {
+        "name": "Azura",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_azura_fullsize.png?raw=true"
+      },
+      {
+        "name": "Benny",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_benny_fullsize.png?raw=true"
+      },
+      {
+        "name": "Beruka",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_beruka_fullsize.png?raw=true"
+      },
+      {
+        "name": "Caeldori",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_caeldori_fullsize.png?raw=true"
+      },
+      {
+        "name": "Camilla",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_camilla_fullsize.png?raw=true"
+      },
+      {
+        "name": "Charlotte",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_charlotte_fullsize.png?raw=true"
+      },
+      {
+        "name": "Daichi",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_daichi_fullsize.png?raw=true"
+      },
+      {
+        "name": "Daniela",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_daniela_fullsize.png?raw=true"
+      },
+      {
+        "name": "Dwyer",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_dwyer_fullsize.png?raw=true"
+      },
+      {
+        "name": "Effie",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_effie_fullsize.png?raw=true"
+      },
+      {
+        "name": "Elise",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_elise_fullsize.png?raw=true"
+      },
+      {
+        "name": "Felicia",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_felicia_fullsize.png?raw=true"
+      },
+      {
+        "name": "Flora",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_flora_fullsize.png?raw=true"
+      },
+      {
+        "name": "Forrest",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_forrest_fullsize.png?raw=true"
+      },
+      {
+        "name": "Funke",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_funke_fullsize.png?raw=true"
+      },
+      {
+        "name": "Fuuga",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_fuuga_fullsize.png?raw=true"
+      },
+      {
+        "name": "Gazak",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_gazak_fullsize.png?raw=true"
+      },
+      {
+        "name": "Gunter",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_gunter_fullsize.png?raw=true"
+      },
+      {
+        "name": "Haitaka",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_haitaka_fullsize.png?raw=true"
+      },
+      {
+        "name": "Hana",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_hana_fullsize.png?raw=true"
+      },
+      {
+        "name": "Hayato",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_hayato_fullsize.png?raw=true"
+      },
+      {
+        "name": "Hinata",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_hinata_fullsize.png?raw=true"
+      },
+      {
+        "name": "Hinoka",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_hinoka_fullsize.png?raw=true"
+      },
+      {
+        "name": "Hisame",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_hisame_fullsize.png?raw=true"
+      },
+      {
+        "name": "Ignatius",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_ignatius_fullsize.png?raw=true"
+      },
+      {
+        "name": "Izana",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_izana_fullsize.png?raw=true"
+      },
+      {
+        "name": "Jakob",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_jakob_fullsize.png?raw=true"
+      },
+      {
+        "name": "Kaden",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_kaden_fullsize.png?raw=true"
+      },
+      {
+        "name": "Kagero",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_kagero_fullsize.png?raw=true"
+      },
+      {
+        "name": "Kana",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_kana_fullsize.png?raw=true"
+      },
+      {
+        "name": "KanaF",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_kanaf_fullsize.png?raw=true"
+      },
+      {
+        "name": "Kaze",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_kaze_fullsize.png?raw=true"
+      },
+      {
+        "name": "Keaton",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_keaton_fullsize.png?raw=true"
+      },
+      {
+        "name": "Kiragi",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_kiragi_fullsize.png?raw=true"
+      },
+      {
+        "name": "Kumagera",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_kumagera_fullsize.png?raw=true"
+      },
+      {
+        "name": "Laslow",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_laslow_fullsize.png?raw=true"
+      },
+      {
+        "name": "Leo",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_leo_fullsize.png?raw=true"
+      },
+      {
+        "name": "Llewelyn",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_llewelyn_fullsize.png?raw=true"
+      },
+      {
+        "name": "Lloyd",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_lloyd_fullsize.png?raw=true"
+      },
+      {
+        "name": "Midori",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_midori_fullsize.png?raw=true"
+      },
+      {
+        "name": "Mitama",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_mitama_fullsize.png?raw=true"
+      },
+      {
+        "name": "Mozu",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_mozu_fullsize.png?raw=true"
+      },
+      {
+        "name": "Nichol",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_nichol_fullsize.png?raw=true"
+      },
+      {
+        "name": "Niles",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_niles_fullsize.png?raw=true"
+      },
+      {
+        "name": "Nina",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_nina_fullsize.png?raw=true"
+      },
+      {
+        "name": "Nyx",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_nyx_fullsize.png?raw=true"
+      },
+      {
+        "name": "Oboro",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_oboro_fullsize.png?raw=true"
+      },
+      {
+        "name": "Odin",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_odin_fullsize.png?raw=true"
+      },
+      {
+        "name": "Ophelia",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_ophelia_fullsize.png?raw=true"
+      },
+      {
+        "name": "Orochi",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_orochi_fullsize.png?raw=true"
+      },
+      {
+        "name": "Percy",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_percy_fullsize.png?raw=true"
+      },
+      {
+        "name": "Peri",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_peri_fullsize.png?raw=true"
+      },
+      {
+        "name": "Reina",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_reina_fullsize.png?raw=true"
+      },
+      {
+        "name": "Rhajat",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_rhajat_fullsize.png?raw=true"
+      },
+      {
+        "name": "Rinkah",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_rinkah_fullsize.png?raw=true"
+      },
+      {
+        "name": "Ryoma",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_ryoma_fullsize.png?raw=true"
+      },
+      {
+        "name": "Saizou",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_saizo_fullsize.png?raw=true"
+      },
+      {
+        "name": "Sakura",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_sakura_fullsize.png?raw=true"
+      },
+      {
+        "name": "Scarlet",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_scarlet_fullsize.png?raw=true"
+      },
+      {
+        "name": "Selena",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_selena_fullsize.png?raw=true"
+      },
+      {
+        "name": "Selkie",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_selkie_fullsize.png?raw=true"
+      },
+      {
+        "name": "Setsuna",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_setsuna_fullsize.png?raw=true"
+      },
+      {
+        "name": "Shigure",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_shigure_fullsize.png?raw=true"
+      },
+      {
+        "name": "Shiro",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_shiro_fullsize.png?raw=true"
+      },
+      {
+        "name": "Shura",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_shura_fullsize.png?raw=true"
+      },
+      {
+        "name": "Silas",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_silas_fullsize.png?raw=true"
+      },
+      {
+        "name": "Soleil",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_soleil_fullsize.png?raw=true"
+      },
+      {
+        "name": "Sophie",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_sophie_fullsize.png?raw=true"
+      },
+      {
+        "name": "Subaki",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_subaki_fullsize.png?raw=true"
+      },
+      {
+        "name": "Takumi",
+        "image": "https://github.com/thierrylee/FE-Fates-AssetsPacks/blob/master/portraits/fechar_takumi_fullsize.png?raw=true"
+      }
+    ]
+  }
